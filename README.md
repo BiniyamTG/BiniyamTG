@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BiniyamTG
-- 👀 I’m interested in MERN full stack, automation
+- 👀 I’m interested in MERN full stack
 - 🌱 I’m currently learning Rust 
 - 📫 How to reach me biniyamteketel050@gmail.com
 - ⚡ Fun fact: ...
