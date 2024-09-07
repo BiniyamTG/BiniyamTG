@@ -16,16 +16,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://fb.com/biniyam teketel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biniyam teketel" height="40" width="40" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
