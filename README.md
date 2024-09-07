@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21063
-Fork on GitHub
-6534
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Biniyam Teketel</h1>
 <h3 align="center">A fullstack Developer from Ethiopia</h3>
 
