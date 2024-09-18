@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [Enteyayek Couple Cards](https://biniyamtg.github.io/CoupleCard/)
 - 🌱 I’m learning **Rust**.
-- 👯 I'm building the [Note to Image Converter](http://biniyamtg.github.io/memories/).
 - 🤝 Collaborating on **Biomedical Workshop Database**.
 
 ---
