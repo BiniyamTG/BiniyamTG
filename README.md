@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biniyam Teketel</h1>
 <h3 align="center">A Fullstack Developer from Ethiopia</h3>
 
-### 🚀 Projects & Learning
 
-- 🔭 I’m currently working on [Enteyayek Couple Cards](https://biniyamtg.github.io/CoupleCard/)
-- 🌱 I’m learning **Rust**.
-- 🤝 Collaborating on **Biomedical Workshop Database**.
 
 ---
 
