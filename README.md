@@ -8,6 +8,7 @@
 ### 📫 Contact Me
 
 - **Email**: biniyamteketel050@gmail.com
+- **Portfolio**: https://biniyamteketelportfolio.vercel.app/
 
 ---
 
