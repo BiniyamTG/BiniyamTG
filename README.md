@@ -65,16 +65,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biniyamtg&show_icons=true&locale=en&layout=compact&theme=radical" alt="biniyamtg" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biniyamtg&show_icons=true&locale=en&theme=radical" alt="biniyamtg" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniyamtg&theme=radical" alt="biniyamtg" />
-</p>
