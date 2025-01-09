@@ -9,7 +9,7 @@
 
 - **Email**: biniyamteketel050@gmail.com
 - **Portfolio**: https://biniyamteketelportfolio.vercel.app/
-- **Currently Working On** : https://kelal-gebeya-frontend-git-main-biniyam-teketels-projects.vercel.app/
+- **Currently Working On** : https://vent-tan.vercel.app/
 
 ---
 
