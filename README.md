@@ -1,4 +1,4 @@
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/BiniyamTG">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
 </a>
 
