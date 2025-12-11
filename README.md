@@ -3,6 +3,14 @@
   Paste into your GitHub profile README.md
 -->
 
+   ____    _       _                               _______      
+  |  _ \  (_) ___ | |_   _ __ ___    __ _   _   _  |__   __| ___ 
+  | |_) | | |/ __|| __| | '_ ` _ \  / _` | | | | |    | |   / _ \
+  |  _ <  | |\__ \| |_  | | | | | || (_| | | |_| |    | |  |  __/
+  |_| \_\ |_| |___/ \__| |_| |_| |_| \__,_|  \__, |    |_|   \___|
+                                             |___/                
+
+
 <!-- Top Banner / Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=700&color=00FF99&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Biniyam+Teketel+%7C+Security-minded+Developer;Go+%7C+Rust+%7C+C%23+%7C+Python;I+build+fast+%26+reliable+systems+%7C+Hacker+Vibes" alt="intro" />
