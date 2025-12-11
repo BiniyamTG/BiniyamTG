@@ -1,36 +1,38 @@
 <div align="center">
 
-# 🚀 NeoHacker Toolkit
-[![Stars](https://img.shields.io/github/stars/username/neohacker?style=social)](https://github.com/username/neohacker)
-[![Forks](https://img.shields.io/github/forks/username/neohacker?style=social)](https://github.com/username/neohacker)
-[![License](https://img.shields.io/github/license/username/neohacker?color=green)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/username/neohacker?color=red)](https://github.com/username/neohacker/issues)
+# 💀 NeoMatrix Overlord v2.0
+[![Stars](https://img.shields.io/github/stars/username/neomatrix?style=for-the-badge&logo=electron&color=00ff00)](https://github.com/username/neomatrix)
+[![Forks](https://img.shields.io/github/forks/username/neomatrix?style=for-the-badge&logo=electron&color=ff00ff)](https://github.com/username/neomatrix)
+[![License](https://img.shields.io/github/license/username/neomatrix?style=for-the-badge&logo=electron&color=0000ff)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/username/neomatrix?style=for-the-badge&logo=electron&color=ff0000)](https://github.com/username/neomatrix/issues)
 
-![Matrix Rain](https://media.giphy.com/media/26BRv0MEJ8m9hLjci/giphy.gif)
+![Glitch Hacker](https://media.giphy.com/media/3o7abKhOpu3O0kJ6uQ/giphy.gif) ![Matrix Code](https://media.giphy.com/media/26BRv0MEJ8m9hLjci/giphy.gif)
 
-> *Enter the matrix. Hack the planet.*  
-> Modern CLI toolkit for pentesting, automation, and cyber ops. Built with Node.js & Electron.
+> *Wake up, Neo. The matrix has you. Time to overload the system.*  
+> Elite CLI fortress for shadow ops, AI exploits, and digital anarchy. Forged in Rust & WebGL shadows.
 
 </div>
 
-## 🌐 Features
-- **Zero-Trust Auth** 🔒 Secure API gateways
-- **AI-Powered Scans** 🤖 ML-driven vuln detection
-- **Modular Plugins** 🔌 Extend with JS modules
-- **Dark Mode UI** 🌑 Neon hacker aesthetics
+## ⚡ Shadow Arsenal
+- **Quantum Payloads** ☢️ One-shot zero-days
+- **Neural Net Infiltrator** 🧠 AI ghost in the wires
+- **Stealth VPN Labyrinth** 🕸️ Untraceable wormholes
+- **Neon Forge UI** Glitch-art command throne
 
-| Feature | Status | Cool Factor |
-|---------|--------|-------------|
-| Payload Generator | ✅ Live | 🔥🔥🔥 |
-| Network Mapper | 🔄 Beta | ⚡⚡ |
-| Crypto Breaker | 🚧 Coming | 💀💀💀 |
+| Weapon | Power Level | Hack Score |
+|--------|-------------|------------|
+| Exploit Forge | 9000+ | 💥💥💥💥 |
+| Ghost Scanner | ∞ | 👻👻👻 |
+| Crypto Annihilator | 🔓 | 🦠🦠🦠🦠🦠 |
 
-<details>
-<summary>🛠 Tech Stack</summary>
+<details open>
+<summary>🔥 Core Reactor</summary>
 
 ```mermaid
-graph TD
-    A[Node.js] --> B[Electron UI]
-    B --> C[Express Server]
-    C --> D[TensorFlow.js]
-    D --> E[Custom Plugins]
+graph LR
+    A[🚀 Rust Core] --> B[🌐 WebGL Shadows]
+    B --> C[🤖 Torch ML Engine]
+    C --> D[🔌 Lua Plugins Abyss]
+    D --> E[💀 Exploit Vault]
+    style A fill:#00ff00,stroke:#333,stroke-width:2px
+    style E fill:#ff0000,stroke:#333,stroke-width:2px
