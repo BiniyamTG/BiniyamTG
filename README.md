@@ -1,39 +1,36 @@
-<!-- Breaking Bad Style Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/zr5A3xW.gif" width="600" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&size=32&duration=2800&color=4EFF33&center=true&vCenter=true&width=700&lines=Biniyam+TG.;Full+Stack+Developer.;GO+%7C+Rust+%7C+C%23+%7C+Python.;Coding+Like+Heisenberg.">
-</h1>
+# 🚀 NeoHacker Toolkit
+[![Stars](https://img.shields.io/github/stars/username/neohacker?style=social)](https://github.com/username/neohacker)
+[![Forks](https://img.shields.io/github/forks/username/neohacker?style=social)](https://github.com/username/neohacker)
+[![License](https://img.shields.io/github/license/username/neohacker?color=green)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/username/neohacker?color=red)](https://github.com/username/neohacker/issues)
 
----
+![Matrix Rain](https://media.giphy.com/media/26BRv0MEJ8m9hLjci/giphy.gif)
 
-## 🧪 “I Am Not in Danger… I *Am* the Developer.”
+> *Enter the matrix. Hack the planet.*  
+> Modern CLI toolkit for pentesting, automation, and cyber ops. Built with Node.js & Electron.
 
-<p align="center">
-  <img src="https://i.imgur.com/SqMZ2Pk.gif" width="500">
-</p>
+</div>
 
----
+## 🌐 Features
+- **Zero-Trust Auth** 🔒 Secure API gateways
+- **AI-Powered Scans** 🤖 ML-driven vuln detection
+- **Modular Plugins** 🔌 Extend with JS modules
+- **Dark Mode UI** 🌑 Neon hacker aesthetics
 
-## 💻 **Tech Lab (Languages I Cook With)**
+| Feature | Status | Cool Factor |
+|---------|--------|-------------|
+| Payload Generator | ✅ Live | 🔥🔥🔥 |
+| Network Mapper | 🔄 Beta | ⚡⚡ |
+| Crypto Breaker | 🚧 Coming | 💀💀💀 |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
-</p>
+<details>
+<summary>🛠 Tech Stack</summary>
 
----
-
-## 🧬 **Services I Provide (What I Cook in the Lab)**
-
-```txt
-🔬 Full‑Stack Web Development  
-⚗️ API Design & Backend Engineering  
-💊 Performance Optimization (I reduce latency like dissolving evidence)  
-🧪 System Design for Scalable Apps  
-📦 Database Design (MongoDB, SQL)  
-💻 Clean, Maintainable, Industry‑Grade Code  
+```mermaid
+graph TD
+    A[Node.js] --> B[Electron UI]
+    B --> C[Express Server]
+    C --> D[TensorFlow.js]
+    D --> E[Custom Plugins]
